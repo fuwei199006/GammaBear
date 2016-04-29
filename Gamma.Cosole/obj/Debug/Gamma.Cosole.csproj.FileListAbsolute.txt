@@ -1,0 +1,28 @@
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\Gamma.Cosole.exe.config
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\Gamma.Cosole.exe
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\Gamma.Cosole.pdb
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\GammaBear.Dal.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\GammarBear.Model.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\GammaBear.Dal.pdb
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\GammarBear.Model.pdb
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.xml
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\obj\Debug\Gamma.Cosole.csprojResolveAssemblyReference.cache
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\obj\Debug\Gamma.Cosole.exe
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\Gamma.Cosole\obj\Debug\Gamma.Cosole.pdb
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\Gamma.Cosole.exe.config
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\obj\Debug\Gamma.Cosole.exe
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\obj\Debug\Gamma.Cosole.pdb
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\Gamma.Cosole.exe
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\Gamma.Cosole.pdb
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.dll
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\GammaBear.Dal.dll
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\GammarBear.Model.dll
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\GammaBear.Dal.pdb
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\GammarBear.Model.pdb
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.xml
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\obj\Debug\Gamma.Cosole.csprojResolveAssemblyReference.cache

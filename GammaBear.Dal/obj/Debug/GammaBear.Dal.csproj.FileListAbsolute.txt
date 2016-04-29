@@ -1,0 +1,12 @@
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\GammaBear.Dal.dll.config
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\GammaBear.Dal.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\GammaBear.Dal.pdb
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\EntityFramework.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\GammarBear.Model.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\GammarBear.Model.pdb
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\EntityFramework.xml
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\obj\Debug\GammaBear.Dal.csprojResolveAssemblyReference.cache
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\obj\Debug\GammaBear.Dal.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\obj\Debug\GammaBear.Dal.pdb

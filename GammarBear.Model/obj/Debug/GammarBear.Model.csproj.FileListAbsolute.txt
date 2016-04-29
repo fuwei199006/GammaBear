@@ -1,0 +1,10 @@
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\bin\Debug\GammarBear.Model.dll.config
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\bin\Debug\GammarBear.Model.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\bin\Debug\GammarBear.Model.pdb
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\bin\Debug\EntityFramework.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\bin\Debug\EntityFramework.xml
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\obj\Debug\GammarBear.Model.csprojResolveAssemblyReference.cache
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\obj\Debug\GammarBear.Model.dll
+C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\obj\Debug\GammarBear.Model.pdb

@@ -1,0 +1,39 @@
+﻿<meta id='viewport' name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<div class=""></div>
+
+<div style="height:60%; border: 1px solid black;overflow-y: scroll" id="divContent">
+   
+</div>
+<div class="form-group">
+
+    <textarea type="text" class="form-control" id="name"
+              placeholder="请输入内容"></textarea>
+</div>
+
+<div class="form-group">
+    <button class="btn btn-info pull-right" id="btnSend">发送</button>
+</div>
+<script>
+    $(function() {
+        $("#btnSend").click(function() {
+           var text= $("#name").val();
+           $("#divContent").append($("<div></div>").html("我说:"+text));
+           Reply();
+           $("#name").val("");
+           
+        });
+    });
+
+    function Reply() {
+        var text= $("#name").val();
+        $.post("GetReply", { request: text }, function (res) {
+            $("#divContent").append($("<div></div>").html("Gamma熊:" + res));
+            $('#divContent').scrollTop($('#divContent').height());
+            $("#name").focus();
+            //Reply();
+        });
+    }
+</script>
