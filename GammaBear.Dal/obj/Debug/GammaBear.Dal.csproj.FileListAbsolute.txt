@@ -10,3 +10,15 @@ C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\b
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\obj\Debug\GammaBear.Dal.csprojResolveAssemblyReference.cache
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\obj\Debug\GammaBear.Dal.dll
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Dal\obj\Debug\GammaBear.Dal.pdb
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\GammaBear.Dal.dll.config
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\GammaBear.Dal.dll
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\GammaBear.Dal.pdb
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\EntityFramework.dll
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\GammarBear.Model.dll
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\GammarBear.Model.pdb
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\EntityFramework.xml
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\obj\Debug\GammaBear.Dal.csprojResolveAssemblyReference.cache
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\obj\Debug\GammaBear.Dal.dll
+F:\git\GammaBear\GammaBear-master\GammaBear.Dal\obj\Debug\GammaBear.Dal.pdb

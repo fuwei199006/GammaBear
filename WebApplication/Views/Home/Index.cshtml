@@ -25,10 +25,17 @@
            $("#name").val("");
            
         });
+
+        $("#name").keyup(function () {
+            if (event.keyCode == 13) {
+                $("#btnSend").click();
+            }
+        });
+
     });
 
     function Reply() {
-        var text= $("#name").val();
+        var text = $("#name").val();
         $.post("GetReply", { request: text }, function (res) {
             $("#divContent").append($("<div></div>").html("Gamma熊:" + res));
             $('#divContent').scrollTop($('#divContent').height());

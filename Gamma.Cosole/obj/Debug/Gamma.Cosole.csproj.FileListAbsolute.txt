@@ -26,3 +26,17 @@ D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\GammarBear.Model.pdb
 D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.xml
 D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\bin\Debug\EntityFramework.SqlServer.xml
 D:\Project\GitHub\GammaBear.Core\Gamma.Cosole\obj\Debug\Gamma.Cosole.csprojResolveAssemblyReference.cache
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\Gamma.Cosole.exe.config
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\obj\Debug\Gamma.Cosole.exe
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\obj\Debug\Gamma.Cosole.pdb
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\Gamma.Cosole.exe
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\Gamma.Cosole.pdb
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\EntityFramework.dll
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\EntityFramework.SqlServer.dll
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\GammaBear.Dal.dll
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\GammarBear.Model.dll
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\GammaBear.Dal.pdb
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\GammarBear.Model.pdb
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\EntityFramework.xml
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\bin\Debug\EntityFramework.SqlServer.xml
+F:\git\GammaBear\GammaBear-master\Gamma.Cosole\obj\Debug\Gamma.Cosole.csprojResolveAssemblyReference.cache

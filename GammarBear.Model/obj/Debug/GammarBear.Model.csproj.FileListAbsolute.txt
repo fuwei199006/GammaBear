@@ -8,3 +8,13 @@ C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Mode
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\obj\Debug\GammarBear.Model.csprojResolveAssemblyReference.cache
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\obj\Debug\GammarBear.Model.dll
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammarBear.Model\obj\Debug\GammarBear.Model.pdb
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\bin\Debug\GammarBear.Model.dll.config
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\bin\Debug\GammarBear.Model.dll
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\bin\Debug\GammarBear.Model.pdb
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\bin\Debug\EntityFramework.dll
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\bin\Debug\EntityFramework.xml
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\obj\Debug\GammarBear.Model.dll
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\obj\Debug\GammarBear.Model.pdb
+F:\git\GammaBear\GammaBear-master\GammarBear.Model\obj\Debug\GammarBear.Model.csprojResolveAssemblyReference.cache

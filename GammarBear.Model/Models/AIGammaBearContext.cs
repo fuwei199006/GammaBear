@@ -18,11 +18,15 @@ namespace GammarBear.Model.Models
 
         public DbSet<AICore> AICores { get; set; }
         public DbSet<AIResult> AIResults { get; set; }
+        public DbSet<AIObject> AIObject { get; set; }
+        public DbSet<AISession> AISession { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new AICoreMap());
             modelBuilder.Configurations.Add(new AIResultMap());
+            modelBuilder.Configurations.Add(new AIObjectMap());
+            modelBuilder.Configurations.Add(new AISessionMap());
         }
     }
 }

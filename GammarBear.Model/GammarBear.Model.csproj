@@ -50,7 +50,11 @@
   <ItemGroup>
     <Compile Include="Models\AICore.cs" />
     <Compile Include="Models\AIGammaBearContext.cs" />
+    <Compile Include="Models\AISession.cs" />
     <Compile Include="Models\AIResult.cs" />
+    <Compile Include="Models\AIObject.cs" />
+    <Compile Include="Models\Mapping\AISessionMap.cs" />
+    <Compile Include="Models\Mapping\AIObjectMap.cs" />
     <Compile Include="Models\Mapping\AICoreMap.cs" />
     <Compile Include="Models\Mapping\AIResultMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

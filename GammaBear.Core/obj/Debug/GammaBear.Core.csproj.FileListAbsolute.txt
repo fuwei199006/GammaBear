@@ -3,3 +3,8 @@ C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Core\
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Core\obj\Debug\GammaBear.Core.csprojResolveAssemblyReference.cache
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Core\obj\Debug\GammaBear.Core.dll
 C:\Users\fu\Documents\Visual Studio 2013\Projects\GammaBear.Core\GammaBear.Core\obj\Debug\GammaBear.Core.pdb
+F:\git\GammaBear\GammaBear-master\GammaBear.Core\bin\Debug\GammaBear.Core.dll
+F:\git\GammaBear\GammaBear-master\GammaBear.Core\bin\Debug\GammaBear.Core.pdb
+F:\git\GammaBear\GammaBear-master\GammaBear.Core\obj\Debug\GammaBear.Core.csprojResolveAssemblyReference.cache
+F:\git\GammaBear\GammaBear-master\GammaBear.Core\obj\Debug\GammaBear.Core.dll
+F:\git\GammaBear\GammaBear-master\GammaBear.Core\obj\Debug\GammaBear.Core.pdb
